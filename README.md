@@ -66,12 +66,3 @@ The tests are located in the `handlers` package and can be run using the followi
 - To execute all the tests, please run `go test ./...`.
 
 - If a more detailed output when running the tests is desired, please run `go test -v ./...`.
-
-# Deployment
-This service is also deployed on Render.
-
-https://prog2005-assignment-01-dx3w.onrender.com
-
-Everytime changes are pushed, all tests are run and if they all pass, the changes will be automatically pushed to Render and the corresponding GitLab instance.
-
-For insight, look into the .yml file which is located in `.github/workflows/deployment.yml`.
