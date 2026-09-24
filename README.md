@@ -1,7 +1,6 @@
 # prog2005-assignment-01
 
 ## Country Information Service
-**Author:** Tobias Nguyen - tobiasng@stud.ntnu.no
 
 The Country Information Service is a RESTful API for provides country-related information by retrieving information from two API endpoints.
 - **RestCountries API:** https://restcountries.com/v3.1
